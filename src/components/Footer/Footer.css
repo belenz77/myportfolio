@@ -1,0 +1,40 @@
+img {
+    width: 100%;
+  }
+  .logoFooter {
+    max-width: 300px;
+  }
+  .footerBelen {
+    background: #008080;
+    color: whitesmoke;
+    margin-top: 0 !important;
+  }
+  i {
+    width: 40px;
+    height: 40px;
+  }
+  .spikes {
+    position: relative;
+    background: #027a8c;
+
+  }
+  
+  .spikes::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    left: -0%;
+    top: 100%;
+    z-index: 10;
+    display: block;
+    height: 50px;
+    background-size: 50px 100%;
+    background-image: linear-gradient(135deg, #046270 25%, transparent 25%), linear-gradient(225deg, #046270 25%, transparent 25%);
+    background-position: 0 0;
+  }
+  
+  .container.p-4{
+      margin-top: 0 !important;
+  }
+  footer a{ color: white;}
+  footer a:hover{ color: #ccc;}

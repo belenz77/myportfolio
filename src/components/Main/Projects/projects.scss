@@ -1,0 +1,33 @@
+
+.section_project{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    h2{
+        color: white;
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .sliderProjects{
+        margin-bottom: 50px;
+        .slick-slide{
+            transform: scale(0.8);
+            opacity: 0.3;
+            transition: all ease 0.5s;
+            .projectos{
+                width: 41px;
+                
+            }
+            h3{
+                color: white;
+            }
+            p{
+                color: white;
+                text-align: justify;
+            }
+        }
+        .slick-slide.slick-current{
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+}

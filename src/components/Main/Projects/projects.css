@@ -1,0 +1,31 @@
+.section_project {
+  font-family: "Poppins", sans-serif;
+  padding: 10px;
+}
+.section_project h2 {
+  color: white;
+  font-size: 40px;
+  margin-bottom: 60px;
+}
+.section_project .sliderProjects {
+  margin-bottom: 50px;
+}
+.section_project .sliderProjects .slick-slide {
+  transform: scale(0.8);
+  opacity: 0.3;
+  transition: all ease 0.5s;
+}
+.section_project .sliderProjects .slick-slide .projectos {
+  width: 41px;
+}
+.section_project .sliderProjects .slick-slide h3 {
+  color: white;
+}
+.section_project .sliderProjects .slick-slide p {
+  color: white;
+  text-align: justify;
+}
+.section_project .sliderProjects .slick-slide.slick-current {
+  transform: scale(1);
+  opacity: 1;
+}/*# sourceMappingURL=projects.css.map */
