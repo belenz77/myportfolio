@@ -1,7 +1,7 @@
 import React from 'react';
 import Yo from "./belen.jpg";
 import "./Main.css";
-import CV from "./CVBZ.pdf";
+import CV from "../../pdfs/CV-BZ23.pdf";
 import { Link } from "react-scroll";
 
 function Main() {
@@ -61,7 +61,7 @@ function Main() {
               >
                DOWNLOAD CV
               </Link> */}
-              <a href="./CVBZ.pdf" className='buttonBZ' download>Descargar CV</a>
+              <a href={CV} className='buttonBZ' download>Descargar CV</a>
             </div>
           </div>
         </div>
