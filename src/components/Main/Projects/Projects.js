@@ -34,7 +34,7 @@ function Projects() {
     
     return(
         <section className="section_project mb-3" id="projects">
-            <h2>Projects</h2>
+            <h2>Proyectos</h2>
             
             <Slider {...sliderSettings} className='sliderProjects mb-3'>
             {repo.map(int => {
