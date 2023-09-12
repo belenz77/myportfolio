@@ -28,7 +28,7 @@ function Main() {
             </div>
 
 
-            <p class="lead">Soy una desarrolladora web  con más de 10 años de experiencia en el sector, y una apasionada de las nuevas tecnologías y los desafíos que ofrece el mundo digital.
+            <p class="lead">Soy desarrolladora web  con más de 10 años de experiencia en el sector, y una apasionada de las nuevas tecnologías y los desafíos que ofrece el mundo digital.
             </p>
             <p class="lead">
               Como desarrolladora, me apasiona trabajar en proyectos que requieren creatividad e innovación. Me gusta encontrar soluciones técnicas para problemas complejos y lograr resultados que superen las expectativas del cliente. También soy una gran defensora del trabajo en equipo, considero que trabajar en colaboración permite la creación de soluciones más eficientes y eficaces.</p>
