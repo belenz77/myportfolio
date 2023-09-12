@@ -20,7 +20,7 @@ function App() {
          {/* <Cards />  */}
         {/* <Carousel/>
         <Projects/> */}
-         <h1>PROJECTS</h1>
+         <h1>PORTFOLIO</h1>
         <Slider/>
         <h1>SKILLS</h1>
         <Skills />
