@@ -1,7 +1,7 @@
 import React from 'react';
 import Yo from "./belen.jpg";
 import "./Main.css";
-import CV from "../../pdfs/CV-BZ23.pdf";
+import CV from "../../pdfs/BZCV23 (2).pdf";
 import { Link } from "react-scroll";
 
 function Main() {
